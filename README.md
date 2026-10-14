@@ -1,3 +1,24 @@
+> **Community development fork.** This repository builds on the original
+> [Vorssaint](https://github.com/vorssaint/vorssaint-utils) project.
+> The features below are independent contributions by **wearedood**,
+> not features of the official Vorssaint releases.
+
+## ✨ wearedood — Intel & Touch Bar development
+
+| Contribution | Status | Explore |
+| --- | --- | --- |
+| **Intel / universal2 macOS builds** | Upstream PR #2471 submitted; not yet confirmed merged | [Intel contribution](https://github.com/vorssaint/vorssaint-utils/pull/2471) |
+| **Customizable MacBook Touch Bar** | Development branch published; built and physically tested on an Intel MacBook Pro | [Touch Bar source](https://github.com/wearedood/vorssaint-utils/tree/feature/touch-bar-standalone) |
+
+**Touch Bar highlights:** configurable controls, drag-and-drop ordering,
+Keep Awake, microphone mute, clipboard access, live CPU/RAM metrics,
+memory cleanup, Quick Launcher, and process management.
+
+**Availability:** development work only. No official release or
+persistent system-wide Touch Bar launcher is claimed.
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/readme/logo-dark.svg">
